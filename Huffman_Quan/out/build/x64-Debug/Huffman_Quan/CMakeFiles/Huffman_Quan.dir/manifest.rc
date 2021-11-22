@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "E:/Program Practics/Huffman_Quan/out/build/x64-Debug/Huffman_Quan/CMakeFiles/Huffman_Quan.dir/embed.manifest"
